@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="App2d.CharacterStudio/App2d.CharacterStudio.csproj" />
+  <Project Path="App2d.CharacterStudio.Tests/App2d.CharacterStudio.Tests.csproj" />
+</Solution>
